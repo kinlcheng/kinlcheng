@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kinlcheng
-- 👀 I’m interested in swimming 
-- 🌱 I’m currently learning ETL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in swimming and video games
+- 🌱 I’m currently learning ETL and MFT
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
