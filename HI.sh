@@ -15,3 +15,9 @@ case ${ans} in
                 ;;
 esac
 echo Do you want any sweets?
+read number
+if [ $number -gt 0 ]
+        then
+                echo "Sorry,it's sold out"
+        fi  
+        
